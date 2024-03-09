@@ -44,3 +44,13 @@ button{
 span{
     display: none;
 }
+
+#saquerealizado{
+    border-radius: 2px;
+    background-color: green;
+}
+
+#erro{
+    border-radius: 2px;
+    background-color: brown;
+}
